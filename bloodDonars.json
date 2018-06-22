@@ -1,0 +1,32 @@
+{
+  "bloodDonars": [
+    {
+      "id": 1,
+      "bloodGroup": "B+",
+      "city": "Chennai",
+      "contactNumbers": {
+        "mobileNumber": "94451045671",
+        "landline": "633440158"
+      },
+      "landline": "633440158",
+      "mobileNumber": "94451045671",
+      "dateOfBirth": "2018-06-21",
+      "fullName": "Hari Santhosh",
+      "gender": "male",
+      "weight": "68"
+    },
+    {
+      "fullName": "Nirmal",
+      "dateOfBirth": "2018-05-27",
+      "gender": "male",
+      "bloodGroup": "B+",
+      "weight": "87",
+      "contactNumbers": {
+        "mobileNumber": "84521379212",
+        "landline": "77456971"
+      },
+      "city": "Pune",
+      "id": 2
+    }
+  ]
+}
